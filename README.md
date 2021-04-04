@@ -1,3 +1,5 @@
-# articles
+# Peter's blog on software development
 
-[Avoiding NullPointerExceptions](https://github.com/nagypet/articles/blob/main/avoiding-null-pointer-exceptions.md)
+In this repo I have collected some articles on Java development.
+
+Go to [WiKi](https://github.com/nagypet/articles/wiki)
